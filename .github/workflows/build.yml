@@ -25,6 +25,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: akhileshns/heroku-deploy@v3.12.12
         with:
-          heroku_api_key: ${{secrets.HEROKU_API_KEY}}
-          heroku_app_name: "nameless-forest-60668"
-          heroku_email: "robert@develogical.com"
+          heroku_api_key: "322561b3-525c-4d23-84fa-8a83e94f53e9"
+          heroku_app_name: "nameless-forest-1680"
+          heroku_email: "gmedinaj@andrew.cmu.edu"
